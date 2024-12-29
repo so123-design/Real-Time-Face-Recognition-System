@@ -1,1 +1,3 @@
 # Real-Time-Face-Recognition-System
+The Real-Time Face Recognition System is a project designed to detect and recognize faces in real-time using a webcam feed. This system leverages the power of computer vision and face recognition techniques to match live faces against a pre-stored database of images. The project is built using Python and integrates libraries such as OpenCV for image processing and face_recognition for facial encoding and matching.
+This project demonstrates practical applications of face recognition in areas such as security, authentication systems, and personalized user experiences.
